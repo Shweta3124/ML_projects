@@ -1,1 +1,1 @@
-# Data_Science_projects
+# ML_projects
